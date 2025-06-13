@@ -1,6 +1,6 @@
 # 国内最全 ChatGPT 中文版镜像网站资源整理（无限使用 ChatGPT-4、GPT-4o）【6月持续更新】
 
-> 更新：2025/06/05   
+> 更新：2025/06/14   
 > 作者：gptchinese  
 
 欢迎访问我们的项目！我们精心整理了一些国内可直接使用的 **ChatGPT 镜像网站**~
@@ -15,7 +15,7 @@
 
 ### 什么是 ChatGPT 中文版镜像网站？
 
-[**ChatGPT 中文版镜像网站**](https://chat.lanjing.pro)（ChatGPT Mirror）是通过复制 ChatGPT 官方网站的内容和结构，而建立的镜像网站备用平台。<br />
+[**ChatGPT 中文版镜像网站**](https://talk.lanjing.pro)（ChatGPT Mirror）是通过复制 ChatGPT 官方网站的内容和结构，而建立的镜像网站备用平台。<br />
 
 &emsp;&emsp;这些网站部署在国内服务器上，使**用户无需翻墙**即可轻松访问 ChatGPT 的全面功能，解决了网络限制带来的使用障碍。
 
@@ -31,7 +31,7 @@
 
 ### 精选推荐的国内 ChatGPT 中文版镜像网站
 
-1. [https://chat.yixiaai.com/](https://chat.lanjing.pro/) - 运营近2年，支持 GPT4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
+1. [https://chat.yixiaai.com/](https://talk.lanjing.pro/) - 运营近2年，支持 GPT4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
 2. [https://chat.lify.vip/](https://chat.yixiaai.com/) - 运营近2年，支持 GPT4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 3. [https://guide1.lanjing.ai/](https://xsimplechat.com/) - 运营1年多，支持 GPT4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 4. [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4o，简单便捷。
@@ -41,7 +41,7 @@
 
 ### 如何快速开始使用？（详细教程）
 
-1. 选择一个推荐的网址，比如：[chat.lanjing.pro](https://chat.lanjing.pro)。
+1. 选择一个推荐的网址，比如：[talk.lanjing.pro](https://talk.lanjing.pro)。
 2. 点击左上角的登录按钮（您也可以直接开始提问）。
 3. 当二维码弹出时，用微信扫一扫即可登录，进行对话使用~。
 
